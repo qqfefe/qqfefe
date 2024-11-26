@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qqfefe
-- 👀 I’m interested in machine learning and deep learning and is experience in statistics and data analytics
+- 👀 I’m interested in machine learning and deep learning and is experienced in statistics and data analytics
 - 💞️ I’m looking to collaborate on various AI projects
 - 📫 Reach me through felixyung86@gmail.com
 - 😄 Pronouns: He
